@@ -18,7 +18,7 @@ title: Kwon Nam Yun
 
 tagline:
 
-description: >- # used by seo meta and the atom feed
+description: Kwon Nam Yun's Blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -33,6 +33,7 @@ social:
   name: Kwon Nam Yun
   email: yuni0725.kwon@gmail.com
   links:
+    - https://github.com/yuni0725
     # The first element serves as the copyright owner's link
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
