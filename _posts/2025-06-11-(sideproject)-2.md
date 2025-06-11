@@ -1,5 +1,5 @@
 ---
-title: 이미지 프롬프팅 챌린지
+title: (Side Project)이미지 프롬프팅 챌린지
 date: 2025-06-11 21:20:00 +09:00
 categories: [사이드프로젝트, LLM CNN, ]
 tags: 
